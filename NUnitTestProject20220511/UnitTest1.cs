@@ -8,7 +8,7 @@ namespace NUnitTestProject20220511
         [SetUp]
         public void Setup()
         {
-
+            var i = 1;
         }
 
         [Test]
